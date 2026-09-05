@@ -16,7 +16,7 @@ By [EDM Ghost Production](https://edm-ghost-production.com).
 Always the newest version:
 
 - **Download for macOS** — [`CringeDancer-mac.dmg`](https://github.com/alexlarichev/cringe-dancer-releases/releases/latest/download/CringeDancer-mac.dmg) · VST3 + AU (Audio Unit) · Universal, Apple Silicon + Intel · signed & notarized
-- **Download for Windows** — [`CringeDancer-Win64.exe`](https://github.com/alexlarichev/cringe-dancer-releases/releases/latest/download/CringeDancer-Win64.exe) · VST3 · 64-bit
+- **Download for Windows** — [`CringeDancer-Win64.exe`](https://github.com/alexlarichev/cringe-dancer-releases/releases/latest/download/CringeDancer-Win64.exe) · VST3 · 64-bit · signed
 
 ## What the plugin does
 
@@ -57,7 +57,7 @@ an automatic gain stage keeps him dancing on quiet mixes and rough demos too.
 |  |  |
 |---|---|
 | **macOS** | 11 Big Sur or newer · Apple Silicon (M1/M2/M3/M4) and Intel · **VST3 + AU** |
-| **Windows** | Windows 10 / 11, 64-bit · **VST3** |
+| **Windows** | Windows 10 / 11, 64-bit · **VST3** · signed installer |
 
 Works in any VST3 host — **Ableton Live, FL Studio, Cubase, Studio One, Reaper,
 Bitwig Studio, Mixcraft** and the rest. The Audio Unit build covers **Logic Pro
