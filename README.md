@@ -13,6 +13,8 @@ By [EDM Ghost Production](https://edm-ghost-production.com).
 
 ## Download
 
+What changed in each version: [CHANGELOG](CHANGELOG.md).
+
 Always the newest version:
 
 - **Download for macOS** — [`CringeDancer-mac.dmg`](https://github.com/alexlarichev/cringe-dancer-releases/releases/latest/download/CringeDancer-mac.dmg) · VST3 + AU (Audio Unit) · Universal, Apple Silicon + Intel · signed & notarized
